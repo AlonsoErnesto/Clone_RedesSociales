@@ -1,0 +1,27 @@
+{
+  "name": "facebook-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "React",
+    "facebook",
+    "social",
+    "media",
+    "clone"
+  ],
+  "author": "Thiba Mahlezana",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.12.10",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
